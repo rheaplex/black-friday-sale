@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="7680"
+   height="4320"
+   viewBox="0 0 2032 1143"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4-dev (84fc2ed690, 2023-11-03, custom)"
+   sodipodi:docname="friday.svg"
+   inkscape:export-filename="./friday.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.43515625"
+     inkscape:cx="3841.149"
+     inkscape:cy="542.33393"
+     inkscape:window-width="1426"
+     inkscape:window-height="977"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showguides="true" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#030303;stroke-width:6.46974;stroke:none;fill-opacity:1"
+       id="rect1"
+       width="7680"
+       height="4320"
+       x="0"
+       y="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:508px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.26458333;stroke:none;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       x="249.93587"
+       y="698.5"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:508px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.26458333;stroke:none;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+         x="249.93587"
+         y="698.5">friday</tspan></text>
+  </g>
+</svg>
